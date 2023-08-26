@@ -1,6 +1,4 @@
-# WHURS-SP
-Homework of Course Satellite Photogrammetry in Wuhan University —— RPC Model
-
+# RPC-Calculator
 
 The project primarily accomplished a terrain-independent RFM (Rational Function Model) control scheme by programming to establish an RPC (Rational Polynomial Coefficient) model. Both the forward and inverse RPC models were established.
 
